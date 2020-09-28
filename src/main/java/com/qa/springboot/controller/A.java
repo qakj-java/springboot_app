@@ -2,5 +2,5 @@ package com.qa.springboot.controller;
 
 public class A {
 
-	private String name;
+	private String aname;
 }
